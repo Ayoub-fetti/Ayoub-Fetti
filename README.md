@@ -1,16 +1,25 @@
-## Hi there 👋
+![DSC_0660-39](https://github.com/user-attachments/assets/94906868-20f2-4d8e-94ff-6b9148b623ef)
+## Hi there, I'm Ayoub Fetti 👋  
 
-<!--
-**Ayoub-fetti/Ayoub-Fetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Passionate about Web & Mobile Development**  
 
-Here are some ideas to get you started:
+I'm a **full-stack developer** with a strong interest in web and mobile development. I specialize in **PHP (OOP), Laravel, JavaScript, Tailwind CSS**, and **SQL**. I enjoy building scalable applications and optimizing user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 What I Do  
+- 🌐 **Web Development**: Frontend & Backend with modern technologies  
+- 🛠 **Tech Stack**: PHP, Laravel, JavaScript, Tailwind CSS, SQL, MySQL  
+- 📊 **Database Management**: Relational databases & optimization  
+- ☁️ **DevOps & Cloud**: Learning AWS & server management  
+
+### 🚀 Current Projects  
+- Developing a **transport management platform** using **PHP (OOP)**  
+- Enhancing **Youbiblio**, an online library management system  
+
+### 📚 Currently Learning  
+- **Microservices & Cloud Technologies**  
+- **Advanced Laravel & Backend Optimization**  
+
+### 📬 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/ayoub-fetti-09925a239/) | 💻 [GitHub](https://github.com/Ayoub-fetti)  
+
+📩 Feel free to reach out for collaboration or discussion on exciting tech topics!  
