@@ -1,4 +1,3 @@
-![DSC_0660-39](https://github.com/user-attachments/assets/94906868-20f2-4d8e-94ff-6b9148b623ef)
 ## Hi there, I'm Ayoub Fetti 👋  
 
 🚀 **Full-Stack Developer | Passionate about Web & Mobile Development**  
@@ -20,6 +19,6 @@ I'm a **full-stack developer** with a strong interest in web and mobile developm
 - **Advanced Laravel & Backend Optimization**  
 
 ### 📬 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/ayoub-fetti-09925a239/) | 💻 [GitHub](https://github.com/Ayoub-fetti)  
+💼 [LinkedIn](https://www.linkedin.com/in/ayoub-fetti-09925a239/)
 
 📩 Feel free to reach out for collaboration or discussion on exciting tech topics!  
