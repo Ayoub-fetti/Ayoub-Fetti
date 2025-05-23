@@ -1,6 +1,6 @@
 ## Hi there, I'm Ayoub Fetti 👋  
 
-🚀 **Full-Stack Developer | Passionate about Web & Mobile Development**  
+🚀 **Full-Stack Developer | Passionate about Web Development**  
 
 I'm a **full-stack developer** with a strong interest in web and mobile development. I specialize in **PHP (OOP), Laravel, JavaScript, Tailwind CSS**, and **SQL**. I enjoy building scalable applications and optimizing user experiences.  
 
