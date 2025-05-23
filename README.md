@@ -6,13 +6,9 @@ I'm a **full-stack developer** with a strong interest in web and mobile developm
 
 ### 🔹 What I Do  
 - 🌐 **Web Development**: Frontend & Backend with modern technologies  
-- 🛠 **Tech Stack**: PHP, Laravel, JavaScript, Tailwind CSS, SQL, MySQL  
-- 📊 **Database Management**: Relational databases & optimization  
+- 🛠 **Tech Stack**: PHP (Laravel), JavaScript (Express, React, Vue), CSS (Tailwind).  
+- 📊 **Database Management**: Relational databases & optimization
 - ☁️ **DevOps & Cloud**: Learning AWS & server management  
-
-### 🚀 Current Projects  
-- Developing a **transport management platform** using **PHP (OOP)**  
-- Enhancing **Youbiblio**, an online library management system  
 
 ### 📚 Currently Learning  
 - **Microservices & Cloud Technologies**  
