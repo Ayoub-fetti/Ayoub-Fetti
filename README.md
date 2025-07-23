@@ -6,13 +6,13 @@ I'm a **full-stack developer** with a strong interest in web development. I spec
 
 ### 🔹 What I Do  
 - 🌐 **Web Development**: Frontend & Backend with modern technologies  
-- 🛠 **Tech Stack**: PHP (Laravel), JavaScript (Express, React, Vue), CSS (Tailwind).  
+- 🛠 **Tech Stack**: Laravel, Node.js, Tailwind, React, Vue.js
 - 📊 **Database Management**: Relational databases & optimization
-- ☁️ **DevOps & Cloud**: Learning AWS & server management  
 
 ### 📚 Currently Learning  
 - **Microservices & Cloud Technologies**  
-- **Advanced Laravel & Backend Optimization**  
+- **Advanced Laravel & Backend Optimization**
+- **MernStack & Javascript libraries**  
 
 ### 📬 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/ayoub-fetti-09925a239/)
